@@ -157,7 +157,7 @@ VibeCheck/
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 project_VibeCheck/
@@ -181,7 +181,7 @@ project_VibeCheck/
 
 ---
 
-## 🧪 Testing
+## Testing
 
 The project includes comprehensive Selenium automated tests covering all major user flows:
 
@@ -207,39 +207,39 @@ The project includes comprehensive Selenium automated tests covering all major u
 ### Landing Page
 The homepage showcases VibeCheck's key features and value proposition.
 
-![Landing Page - Hero](vibecheck pictures/landing1.PNG)
+![Landing Page - Hero](screenshots/landing1.PNG)
 
-![Landing Page - Features](vibecheck pictures/landing2.PNG)
+![Landing Page - Features](screenshots/landing2.PNG)
 
 ### Authentication
 Secure login system with user registration capabilities.
 
-![Login Page](vibecheck pictures/login.PNG)
+![Login Page](screenshots/login.PNG)
 
 ### User Dashboard
 Main user interface showing playlists, friends, and activity feed.
 
-![User Dashboard](vibecheck pictures/user.PNG)
+![User Dashboard](screenshots/user.PNG)
 
 ### Collaborative Playlists
 Real-time collaboration on shared playlists with friends.
 
-![Collaborative Playlist](vibecheck pictures/collab.PNG)
+![Collaborative Playlist](screenshots/collab.PNG)
 
 ### Playlist Creation
 Create and manage playlists with Spotify integration.
 
-![Playlist Creation](vibecheck pictures/playlist creation.PNG)
+![Playlist Creation](screenshots/playlist%20creation.PNG)
 
 ### Premium Features
 Subscription pricing and premium membership options.
 
-![Pricing Page](vibecheck pictures/pricing.PNG)
+![Pricing Page](screenshots/pricing.PNG)
 
 ### Moderator Dashboard
 Content curation and trending playlist management tools.
 
-![Moderator Dashboard](vibecheck pictures/moderator_dashboard.PNG)
+![Moderator Dashboard](screenshots/moderator_dashboard.PNG)
 
 ---
 
